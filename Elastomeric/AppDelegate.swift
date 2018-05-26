@@ -3,7 +3,6 @@
 //  Elastomeric
 //
 //  Created by Christopher Cohen on 5/25/18.
-//  Copyright © 2018 Ikonium. All rights reserved.
 //
 
 import UIKit
