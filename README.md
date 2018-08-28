@@ -9,7 +9,7 @@
 
 Your app should declare an `extension` on `Elastomer`
 
-```objective-c
+```swift
 //Elastomer declarations
 extension Elastomer {
     static var someBool:Elastomer   { return Elastomer(associatedType: Bool.self, name: "someBool") }
