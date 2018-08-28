@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'Public', :file => 'LICENSE' }
   s.author           = { 'Christopher Cohen' => 'chris@filmicpro.com' }
   # s.source           = { :git => 'git@github.com:Ikonium/Elastomeric.git', :tag => s.version.to_s }
-  s.source           = { :git => 'git@github.com:ivanleskofilmic/Elastomeric.git', :branch => 'CocoapodIntegration' }
+  s.source           = { :git => 'https://github.com/ivanleskofilmic/Elastomeric.git', :branch => 'CocoapodIntegration' }
   s.swift_version    = '4.1'
 
   s.ios.deployment_target = '11.0'
